@@ -1,10 +1,10 @@
 const mysql = require("mysql");
 const connection = mysql.createConnection({
-  port: 3306,
-  host: "slime.hostitbro.com",
-  user: "shubh",
-  password: "w6)iZ3udU?GK",
-  database: "elitepro_learning-elite",
+  port: 111,
+  host: "xxxxxx",
+  user: "xxxxxx",
+  password: "xxxxx",
+  database: "xxxxxxx",
 });
 connection.connect((err) => {
   if (err) {
